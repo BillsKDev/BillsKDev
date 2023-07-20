@@ -1,9 +1,9 @@
 <h1 align="left">Hey, I'm Bilal 👋</h1>
-<h3 align="left">A first year undergraduate Computer Science student</h3>
+<h3 align="left">A third year undergraduate Game Development student</h3>
 
-- I have skills in **Game Development** using the Unity Engine and C#, **Web Development** using HTML, CSS, JavaScript, React, and Bootstrap, as well as **Software Development** using Java & C++
+- I have skills in **Game Development** using the Unity/Unreal Engines with C# and C++, **Web Development** using HTML, CSS, JavaScript, React, and Bootstrap.
 
-- I’m currently broadening my skills in Java & Python, and plan to build a Portfolio Website
+- I’m currently working on my own game project for a portfolio piece, and plan to build a Portfolio Website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
